@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liendea
 - 👀 I’m interested in snowboarding and web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NEXT.js
 - 💞️ I’m looking to collaborate on webdesign and webdevelopment projects
 - 📫 How to reach me: reach out to me on my instagram liendea.dev
 - ⚡ Fun fact: I have 3 rescue bunnies: Buddy, Baileys and Majken
