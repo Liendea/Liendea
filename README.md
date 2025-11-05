@@ -2,7 +2,7 @@
 - 👀 I’m interested in snowboarding and web development
 - 🌱 I’m currently learning NEXT.js
 - 💞️ I’m looking to collaborate on webdesign and webdevelopment projects
-- 📫 How to reach me: reach out to me on my instagram liendea.dev
+- 📫 How to reach me: reach out to me on my linkedIn : www.linkedin.com/in/bengtsson-linda
 - ⚡ Fun fact: I have 3 rescue bunnies: Buddy, Baileys and Majken
 
 <!---
