@@ -1,8 +1,4 @@
-<img width="1436" height="443" alt="banner" src="https://github.com/user-attachments/assets/8f6588f2-416f-499c-9829-1602b3ada3d8" />
-<br>
-<br>
-<br>
-<br>
+
 
 - 👋 Hi, I’m @Liendea
 - 👀 I’m interested in snowboarding, golf, nature, animals and web development
