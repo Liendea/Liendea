@@ -95,13 +95,6 @@ I'm always open to new collaborations, feedback, or simply chatting about code a
 </div>
 
 <br />
-
-<div align="center">
-  <sub>Built with ❤️, code, and an eye for design.</sub>
-</div>
-
-
-  
 <br>
 <br>
 <br>
